@@ -12,8 +12,7 @@
 
             <?php if($count > 0): ?>
                 <a href="preview.php" class="btn btn-dark me-3 apply">Form Preview</a>
-            <?php else: ?>
-           
+            <?php else: ?>   
     
             <a href="apply.php" class="btn btn-dark border float-end me-3 apply">Apply Now</a>
             <?php endif; ?>
